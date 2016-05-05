@@ -27,7 +27,7 @@ $ source ./venv/bin/activate
 
 #### Link framework build python
 ```
-$ cp frameworkpython ./venv/bin/
+$ mv frameworkpython ./venv/bin/
 $ pip install -r requirements.txt
 ```
 
